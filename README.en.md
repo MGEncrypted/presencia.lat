@@ -93,10 +93,10 @@ We also produce **technical 3D videos** (14 pieces: roasters, water plants, sola
 <table align="center">
   <tr>
     <td align="center">
-      <a href="assets/video-spot.mp4"><img src="assets/video-spot.png" alt="Video: sales recovery" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-spot.mp4"><img src="assets/video-spot.png" alt="Video: sales recovery" width="440"></a>
     </td>
     <td align="center">
-      <a href="assets/video-reel.mp4"><img src="assets/video-reel.png" alt="Video: social media reel with an AI avatar" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-reel.mp4"><img src="assets/video-reel.png" alt="Video: social media reel with an AI avatar" width="440"></a>
     </td>
   </tr>
 </table>

@@ -93,10 +93,10 @@ También producimos **videos técnicos en 3D** (14 piezas: tostadoras, plantas d
 <table align="center">
   <tr>
     <td align="center">
-      <a href="assets/video-spot.mp4"><img src="assets/video-spot.png" alt="Video: recuperación de ventas" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-spot.mp4"><img src="assets/video-spot.png" alt="Video: recuperación de ventas" width="440"></a>
     </td>
     <td align="center">
-      <a href="assets/video-reel.mp4"><img src="assets/video-reel.png" alt="Video: reel de redes sociales con avatar de IA" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-reel.mp4"><img src="assets/video-reel.png" alt="Video: reel de redes sociales con avatar de IA" width="440"></a>
     </td>
   </tr>
 </table>

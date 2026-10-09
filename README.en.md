@@ -1,7 +1,7 @@
 <p align="right"><a href="README.md">Español</a> · <strong>English</strong></p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="presencIA — We take care of everything. You take care of your customers." width="100%">
+  <img src="assets/banner-en.png" alt="presencIA — We take care of everything. You take care of your customers." width="100%">
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.png" alt="7 days to launch your site · 5 AI agents · 51 sites in the portfolio · 14 technical 3D videos · 24 h response to negative reviews" width="100%">
+  <img src="assets/stats-en.png" alt="7 days to launch your site · 5 AI agents · 51 sites in the portfolio · 14 technical 3D videos · 24 h response to negative reviews" width="100%">
 </p>
 
-<p align="center"><img src="assets/h-servicios.png" alt="01 · Services" width="100%"></p>
+<p align="center"><img src="assets/h-servicios-en.png" alt="01 · Services" width="100%"></p>
 
 <p align="center">
-  <img src="assets/servicios.png" alt="presencIA's six services: professional website, AI front office, social media presence, Smart WiFi, Review Shield and SEO + AEO" width="100%">
+  <img src="assets/servicios-en.png" alt="presencIA's six services: professional website, AI front office, social media presence, Smart WiFi, Review Shield and SEO + AEO" width="100%">
 </p>
 
 The **Base Plan** bundles the website and the AI front office. Every other service is a module you add on, with no lock-in.
@@ -45,10 +45,10 @@ Modular pricing, no lock-in. Values as of October 2026; the current quote is con
 
 </details>
 
-<p align="center"><img src="assets/h-equipo.png" alt="02 · AI team" width="100%"></p>
+<p align="center"><img src="assets/h-equipo-en.png" alt="02 · AI team" width="100%"></p>
 
 <p align="center">
-  <img src="assets/equipo.png" alt="Sofía, Daniel, Lucía, Pablo and Elena: presencIA's AI agent team" width="100%">
+  <img src="assets/equipo-en.png" alt="Sofía, Daniel, Lucía, Pablo and Elena: presencIA's AI agent team" width="100%">
 </p>
 
 Not a chatbot: a **front-desk team** of five specialized agents that greet, qualify, book and hand the owner only the cases that matter, across chat, WhatsApp and Facebook.
@@ -64,14 +64,14 @@ Not a chatbot: a **front-desk team** of five specialized agents that greet, qual
 There is also the **Office Assistant**: an AI assistant trained on your documents and connected to Gmail, Calendar and Drive. It does not talk to your customers; it cuts internal manual work. Every agent is customizable in name, tone, knowledge base and limits.
 
 <p align="center">
-  <img src="assets/pilares.png" alt="Speed: an 11-second response against a 42-hour industry average. Verticality: agents trained on your sector and your documents. Truth: every conversation and every cost visible in your console." width="100%">
+  <img src="assets/pilares-en.png" alt="Speed: an 11-second response against a 42-hour industry average. Verticality: agents trained on your sector and your documents. Truth: every conversation and every cost visible in your console." width="100%">
 </p>
 
-<p align="center"><img src="assets/h-portafolio.png" alt="03 · Portfolio" width="100%"></p>
+<p align="center"><img src="assets/h-portafolio-en.png" alt="03 · Portfolio" width="100%"></p>
 
 <p align="center">
   <a href="https://presencia.lat/portafolio/">
-    <img src="assets/portafolio.png" alt="Portfolio sample: Altana, CIAK, Conexión, Grazia, Kakawa, Nerea, Semuc, SWARM, Terra Alta, Tenuta Vèspera and Zavala & Legal" width="100%">
+    <img src="assets/portafolio-en.png" alt="Portfolio sample: Altana, CIAK, Conexión, Grazia, Kakawa, Nerea, Semuc, SWARM, Terra Alta, Tenuta Vèspera and Zavala & Legal" width="100%">
   </a>
 </p>
 
@@ -88,15 +88,15 @@ Every site has its own visual language: no template is repeated. A few of the 51
 
 We also produce **technical 3D videos** (14 pieces: roasters, water plants, solar and hydroelectric power, bridges and more) at [presencia.lat/videos](https://presencia.lat/videos/).
 
-<p align="center"><img src="assets/h-en-accion.png" alt="04 · In action" width="100%"></p>
+<p align="center"><img src="assets/h-en-accion-en.png" alt="04 · In action" width="100%"></p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-spot.mp4"><img src="assets/video-spot.png" alt="Video: sales recovery" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-spot.mp4"><img src="assets/video-spot-en.png" alt="Video: sales recovery" width="440"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-reel.mp4"><img src="assets/video-reel.png" alt="Video: social media reel with an AI avatar" width="440"></a>
+      <a href="https://github.com/MGEncrypted/presencia.lat/raw/main/assets/video-reel.mp4"><img src="assets/video-reel-en.png" alt="Video: social media reel with an AI avatar" width="440"></a>
     </td>
   </tr>
 </table>
@@ -107,21 +107,21 @@ We also produce **technical 3D videos** (14 pieces: roasters, water plants, sola
   </a>
 </p>
 
-<p align="center"><img src="assets/h-casos.png" alt="05 · Real cases" width="100%"></p>
+<p align="center"><img src="assets/h-casos-en.png" alt="05 · Real cases" width="100%"></p>
 
 <p align="center">
-  <img src="assets/casos.png" alt="Zavala & Legal Partners: 82 conversations and 2 confirmed appointments in the first month. SAMY. VISUALS: 12 conversations and 7 appointment requests. Grazia: renewed website, console starting up." width="100%">
+  <img src="assets/casos-en.png" alt="Zavala & Legal Partners: 82 conversations and 2 confirmed appointments in the first month. SAMY. VISUALS: 12 conversations and 7 appointment requests. Grazia: renewed website, console starting up." width="100%">
 </p>
 
-<p align="center"><img src="assets/h-consola.png" alt="06 · The console" width="100%"></p>
+<p align="center"><img src="assets/h-consola-en.png" alt="06 · The console" width="100%"></p>
 
 <p align="center">
-  <img src="assets/consola.png" alt="The presencIA console: summary, recent conversations, leads, appointments and analytics" width="100%">
+  <img src="assets/consola-en.png" alt="The presencIA console: summary, recent conversations, leads, appointments and analytics" width="100%">
 </p>
 
 Every conversation (web, WhatsApp and Facebook) in a single console, with integrations to Gmail, Google Calendar, WhatsApp and CRM. It includes a studio for presentations and infographics, analytics, review management and monthly reports. When a lead does not convert, the console launches automatic follow-up campaigns.
 
-<p align="center"><img src="assets/h-faq.png" alt="07 · FAQ" width="100%"></p>
+<p align="center"><img src="assets/h-faq-en.png" alt="07 · FAQ" width="100%"></p>
 
 <details>
 <summary><strong>How long until my business shows up on Google?</strong></summary>
@@ -177,11 +177,11 @@ Yes. The agents answer from a knowledge base you upload, trained on your sector.
 
 </details>
 
-<p align="center"><img src="assets/h-contacto.png" alt="08 · Contact" width="100%"></p>
+<p align="center"><img src="assets/h-contacto-en.png" alt="08 · Contact" width="100%"></p>
 
 <p align="center">
   <a href="https://wa.me/50240725862">
-    <img src="assets/footer.png" alt="Ready to be found? WhatsApp +502 4072 5862 · presencia.lat · @presencia.lat" width="100%">
+    <img src="assets/footer-en.png" alt="Ready to be found? WhatsApp +502 4072 5862 · presencia.lat · @presencia.lat" width="100%">
   </a>
 </p>
 
